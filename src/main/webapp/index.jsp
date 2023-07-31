@@ -1,5 +1,9 @@
+<!DOCTYPE html>
 <html>
-<body>
-	<h1 style="color: green; font-size: 40px;" align="center">  GANA TECH APP VERSION-12000</h1>
+<body style="background-color:powderblue;">
+
+<h1>GANA TECH APP VERSION</h1>
+<p> Ammerpet Annapurna black.</p>
+
 </body>
 </html>
